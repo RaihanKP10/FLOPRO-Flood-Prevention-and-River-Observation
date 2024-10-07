@@ -1,4 +1,4 @@
-# FLOPRO-Flood-Prevention-and-River-Observation
+# FLOPRO : Flood Prevention and River Observation
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Latar Belakang Proyek FLOPRO</h1>
+        <h1>Latar Belakang Proyek FLOPRO : Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT</h1>
         <p>Indonesia, sebagai negara yang sering dilanda bencana alam, memiliki tantangan besar dalam menangani banjir. Curah hujan yang tinggi, aliran air yang tidak teratur, serta kerusakan infrastruktur drainase sering kali menyebabkan banjir di berbagai daerah. Salah satu penyebab utama dari masalah ini adalah kurangnya sistem pemantauan dan pencegahan dini terhadap naiknya permukaan air sungai yang dapat mengakibatkan banjir. Bencana banjir ini tak hanya menyebabkan kerugian materi yang besar, tetapi juga menelan korban jiwa dan menghancurkan fasilitas umum, serta mengganggu aktivitas masyarakat.</p>
 
         <p
