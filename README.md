@@ -9,6 +9,6 @@
 
 </head>
 <body>
-    <div class="container">
+    <div class="container" justify-content=space-between>
         <h1>Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT</h1>
         <p>Indonesia, sebagai negara yang sering dilanda bencana alam, memiliki tantangan besar dalam menangani banjir. Curah hujan yang tinggi, aliran air yang tidak teratur, serta kerusakan infrastruktur drainase sering kali menyebabkan banjir di berbagai daerah. Salah satu penyebab utama dari masalah ini adalah kurangnya sistem pemantauan dan pencegahan dini terhadap naiknya permukaan air sungai yang dapat mengakibatkan banjir. Bencana banjir ini tak hanya menyebabkan kerugian materi yang besar, tetapi juga menelan korban jiwa dan menghancurkan fasilitas umum, serta mengganggu aktivitas masyarakat.</p>
