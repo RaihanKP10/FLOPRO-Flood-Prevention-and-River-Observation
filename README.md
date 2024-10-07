@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <img src = ![logo watersafe (1)](https://github.com/user-attachments/assets/bffc73ba-32cd-47ae-958e-ae0542897962)
->
+    <img src = >
 </head>
 <body>
     <div class="container">
