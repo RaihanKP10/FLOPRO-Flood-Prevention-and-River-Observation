@@ -78,5 +78,9 @@
 </table>
 </div>
 
+<div>
+    <h1>Hardware Desain</h1>
+    <p></p>
+</div?
 
 </body>
