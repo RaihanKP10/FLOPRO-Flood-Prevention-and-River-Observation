@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <img src= "https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Beranda/logo%20watersafe.jpg"  width = 400>
+    <img src= "https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/logo%20watersafe.jpg"  width = 400>
 
 </head>
 <body>
