@@ -9,7 +9,7 @@
 
 </head>
 <body>
-    <div class="container" align=justify>
+    <div  align=justify>
         <h1>Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT</h1>
         <p>Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan teknologi IoT untuk memberikan peringatan banjir secara real-time dengan mengukur ketinggian air sungai. Sistem ini dirancang untuk membantu manajemen bencana banjir dengan memberikan notifikasi kepada pemerintah daerah dan masyarakat tentang peningkatan ketinggian air, sehingga tindakan pencegahan dapat dilakukan sebelum banjir terjadi.</p>
 
