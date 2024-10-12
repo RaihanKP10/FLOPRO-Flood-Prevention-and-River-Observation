@@ -33,59 +33,48 @@
     <th>Jobdesk</th>
     <th>Akun</th>
   </tr>
-<!--
-    <tr ODY>
+
+ <tr ODY>
     <td>2122600036</td>
     <td>Dafit Ody Endriantono</td>
     <td>--</td>
     <td><a href = "https://github.com/DafitOdy-In"> Ody <a/></td>
-    </tr>
--->
-    
-<!--
-    <tr Thofail>
+ </tr>
+
+<tr Thofail>
     <td>2122600037</td>
     <td>Thofail Syakirudin/td>
     <td>--</td>
     <td><a href = "https://github.com/DzavanTS"> Thofail </a></td>
-    </tr>
--->
+</tr>
 
-<!--
-    <tr Ahmad Miftahur Rif'at>
+<tr Aat>
     <td>2122600046</td>
-    <td></td>
+    <td>Ahmad Miftahur Rif'at</td>
     <td>--</td>
     <td><a href= "#"> Rif'at <a/></td>
-    </tr>
--->
-
-<!--
-    <tr Zanuar>
+</tr>
+        
+<tr Zanuar>
     <td>2122600051</td>
     <td>Zanuar Dwi Novaliyanto </td>
     <td>--</td>
     <td><a href = "https://github.com/ZanuarDwiNovaliyanto"> Zanuar <a/></td>
-    </tr>
--->
+</tr>
 
-<!--
-    <tr Raihan>
+<tr Raihan>
     <td>2122600056</td>
     <td>Moch Raihan Kemal P</td>
     <td>--</td>
     <td><a href "https://github.com/RaihanKP10"> Raihan <a/></td>
-    </tr>
--->
+</tr>
 
-<!--
-    <tr Asyraf>
+<tr Asyraf>
     <td>2122600060</td>
     <td>Asyraf Sulthan Zaky</td>
     <td>--</td>
     <td><a href = "https://github.com/AsyrafSinclair"> Asyraf <a/></td>
-    </tr>
--->
+</tr>
 </table>
 </div>
 
