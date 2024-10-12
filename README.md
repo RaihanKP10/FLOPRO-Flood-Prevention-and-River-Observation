@@ -43,7 +43,7 @@
 
 <tr Thofail>
     <td>2122600037</td>
-    <td>Thofail Syakirudin/td>
+    <td>Thofail Syakirudin</td>
     <td>--</td>
     <td><a href = "https://github.com/DzavanTS"> Thofail </a></td>
 </tr>
@@ -80,6 +80,7 @@
 
 <div>
     <h1>Hardware Desain</h1>
+    <img src= "https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/logo%20watersafe.jpg"  width = 400>
     <p></p>
 </div?
 
