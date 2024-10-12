@@ -13,7 +13,7 @@
         <h1>Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT</h1>
         <p>Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan teknologi IoT untuk memberikan peringatan banjir secara real-time dengan mengukur ketinggian air sungai. Sistem ini dirancang untuk membantu manajemen bencana banjir dengan memberikan notifikasi kepada pemerintah daerah dan masyarakat tentang peningkatan ketinggian air, sehingga tindakan pencegahan dapat dilakukan sebelum banjir terjadi.</p>
 
-<p>Fitur</p>
+<h1>Fitur</h1>
 <p>Pemantauan Real-Time: Mengukur ketinggian air sungai secara terus-menerus menggunakan sensor.</p>
 <p>Transmisi Data: Mengirimkan data ke server cloud melalui perangkat IoT.</p>
 <p>Sistem Peringatan Banjir: Memberikan peringatan banjir ketika ketinggian air melebihi ambang batas yang telah ditentukan.</p>
