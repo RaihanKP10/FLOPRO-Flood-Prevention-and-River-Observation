@@ -15,11 +15,11 @@
     </div>
 <div align = justify>
     <h1>Fitur</h1>
-        <li>Pemantauan Real-Time     : Mengukur ketinggian air sungai secara terus-menerus menggunakan sensor.</li>
-        <li>Transmisi Data           : Mengirimkan data ke server cloud melalui perangkat IoT.</li>
-        <li>Sistem Peringatan Banjir : Memberikan peringatan banjir ketika ketinggian air melebihi ambang batas yang telah ditentukan.</li>
-        <li>Antarmuka Web dan Mobile : Menampilkan data ketinggian air dan peringatan pada dasbor yang mudah digunakan.</li>
-        <li>Penyimpanan Data         : Menyimpan data ketinggian air secara historis untuk analisis dan prediksi lebih lanjut.</li>
-        <li>Pengaturan Ambang batas  : Pengguna dapat menyesuaikan ambang batas ketinggian air sesuai dengan tingkat risiko banjir di wilayahnya.</li>
+        <li><b>Pemantauan Real-Time</b>     : Mengukur ketinggian air sungai secara terus-menerus menggunakan sensor.</li>
+        <li><b>Transmisi Data</b>           : Mengirimkan data ke server cloud melalui perangkat IoT.</li>
+        <li><b>Sistem Peringatan Banjir</b> : Memberikan peringatan banjir ketika ketinggian air melebihi ambang batas yang telah ditentukan.</li>
+        <li><b>Antarmuka Web dan Mobile</b> : Menampilkan data ketinggian air dan peringatan pada dasbor yang mudah digunakan.</li>
+        <li><b>Penyimpanan Data</b>         : Menyimpan data ketinggian air secara historis untuk analisis dan prediksi lebih lanjut.</li>
+        <li><b>Pengaturan Ambang batas</b>  : Pengguna dapat menyesuaikan ambang batas ketinggian air sesuai dengan tingkat risiko banjir di wilayahnya.</li>
 </div>
 </body>
