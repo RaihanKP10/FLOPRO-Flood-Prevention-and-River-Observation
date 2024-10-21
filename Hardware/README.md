@@ -15,10 +15,9 @@
     <p>Konsep kerja dari alat ini mengukur ketinggian air melalui sensor ultrasonik HCSR-04 kemudian hasilnya akan kirim ke server untuk ditampilkan melalui aplikasi. Ketika ketinggian mendekati permukaan maka akan memberikan informasi berupa suara melalui  memicu terbukanya pintu air menggunakan motor servo yang menuju ke bendungan. Untuk pengiriman data sensor ke server membutuhkan data internet, dikarenakan alat ini berada pada outdoor maka diperlukan data internet eksternal menggunakan modem WiFi. Karena alat ini berada pada outdoor kita memanfaatkan energi matahari sebagai sumber listrik pada alat ini menggunakan panel surya mini yang kemudian disimpan pada baterai.</p>
     <p>Pengetesan hardware dapat dilakukan pada simulasi online di Wokwi<br>
     <a href = "https://wokwi.com/projects/411479674030035969">Project Pada Wokwi<a/></p>
-    </div>
-
-    <div align=justify>
     <h1>Hardware Desain 3D</h1>
     <img src= "https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/Hardware/Hardware/Hardware%203D.png"  width = 2000>
     </div>
+
+    
 </body>
