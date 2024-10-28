@@ -28,6 +28,7 @@
     <h1>Anggota Tim</h1>
 <table style="width:100%" border = 1px>
   <tr >
+    <th>Foto</th>
     <th>NRP</th>
     <th>Nama</th>
     <th>Jobdesk</th>
@@ -35,6 +36,7 @@
   </tr>
 
  <tr ODY>
+    <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Ody" width="100"></td>
     <td>2122600036</td>
     <td>Dafit Ody Endriantono</td>
     <td>UI/UX Designer</td>
