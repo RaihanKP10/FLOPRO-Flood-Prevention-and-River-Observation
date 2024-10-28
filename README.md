@@ -82,5 +82,9 @@
         <img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Blok%20Diagram%20v1.png" width="1000">
         <p>Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimkan data ke server untuk ditampilkan melalui aplikasi. Ketika ketinggian mendekati ambang batas, sistem memicu servo untuk membuka pintu air di bendungan. Karena alat berada di luar ruangan, data dikirim melalui modem WiFi, dan energi diperoleh dari panel surya mini yang disimpan dalam baterai.</p>
     </div>
+
+ <footer>
+    <p>&copy; 2024 FLOPRO. All rights reserved.</p>
+ </footer>
 </body>
 </html>
