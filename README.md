@@ -1,15 +1,13 @@
+# FLOPRO : Flood Prevention and River Observation
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>FLOPRO : Flood Prevention and River Observation</title>
+    <img src= "https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/logo%20watersafe.jpg"  width = 400 align-items = center>
+
 </head>
-<body>
-    <div align="center">
-        <img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/logo%20watersafe.jpg" width="400">
-    </div>
     <div align="justify">
         <h1>Penanggulangan Bencana Banjir dengan Monitoring Real-time Ketinggian Air Sungai Berbasis IoT</h1>
         <p>Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan teknologi IoT untuk memberikan peringatan banjir secara real-time dengan mengukur ketinggian air sungai. Sistem ini dirancang untuk membantu manajemen bencana banjir dengan memberikan notifikasi kepada pemerintah daerah dan masyarakat tentang peningkatan ketinggian air, sehingga tindakan pencegahan dapat dilakukan sebelum banjir terjadi.</p>
@@ -84,6 +82,5 @@
         <img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Blok%20Diagram%20v1.png" width="1000">
         <p>Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimkan data ke server untuk ditampilkan melalui aplikasi. Ketika ketinggian mendekati ambang batas, sistem memicu servo untuk membuka pintu air di bendungan. Karena alat berada di luar ruangan, data dikirim melalui modem WiFi, dan energi diperoleh dari panel surya mini yang disimpan dalam baterai.</p>
     </div>
-
 </body>
 </html>
