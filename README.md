@@ -34,42 +34,42 @@
                 <th>Akun</th>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Ody" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101007.png" alt="Foto Ody" width="100"></td>
                 <td>2122600036</td>
                 <td>Dafit Ody Endriantono</td>
                 <td>UI/UX Designer</td>
                 <td><a href="https://github.com/DafitOdy-In">Ody</a></td>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Thofail" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101120.png" alt="Foto Thofail" width="100"></td>
                 <td>2122600037</td>
                 <td>Thofail Syakirudin</td>
                 <td>Hardware</td>
                 <td><a href="https://github.com/DzavanTS">Thofail</a></td>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Rif'at" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101217.png" alt="Foto Rif'at" width="100"></td>
                 <td>2122600046</td>
                 <td>Ahmad Miftahur Rif'at</td>
                 <td>Mechanical</td>
                 <td><a href="#">Rif'at</a></td>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Zanuar" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101243.png" alt="Foto Zanuar" width="100"></td>
                 <td>2122600051</td>
                 <td>Zanuar Dwi Novaliyanto</td>
                 <td>Mechanical</td>
                 <td><a href="https://github.com/ZanuarDwiNovaliyanto">Zanuar</a></td>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Raihan" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101315.png" alt="Foto Raihan" width="100"></td>
                 <td>2122600056</td>
                 <td>Moch Raihan Kemal P</td>
                 <td>Software</td>
                 <td><a href="https://github.com/RaihanKP10">Raihan</a></td>
             </tr>
             <tr>
-                <td align="center"><img src="https://via.placeholder.com/100" alt="Foto Asyraf" width="100"></td>
+                <td align="center"><img src="https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101343.png" alt="Foto Asyraf" width="100"></td>
                 <td>2122600060</td>
                 <td>Asyraf Sulthan Zaky</td>
                 <td>Project Manager</td>
