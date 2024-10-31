@@ -15,6 +15,11 @@ Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan tekno
 - **Pengaturan Ambang Batas**: Menyesuaikan ambang batas sesuai tingkat risiko.
 
 ## Anggota Tim
+
+![FotoTim](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/foto%20tim%201.jpeg)
+![FotoTim1](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/foto%20tim%202.jpeg)
+![FotoTim1](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/foto%20tim%203.jpeg)
+
 | Foto                                                                                                          | NRP       | Nama                  | Jobdesk             | Akun                             |
 |---------------------------------------------------------------------------------------------------------------|-----------|-----------------------|---------------------|----------------------------------|
 | ![Foto Ody](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Screenshot%202024-10-28%20101007.png) | 2122600036 | Dafit Ody Endriantono | UI/UX Designer     | [Ody](https://github.com/DafitOdy-In) |
