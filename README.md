@@ -31,4 +31,17 @@ Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimka
 
 ---
 
+##Demonstrasi Kalibrasi Sensor
+1. Link Demonstrasi Kalibrasi Sensor HCSR04 :
+   https://youtube.com/shorts/4SDvYGCIjRk?feature=share
+   "Kalibrasi sensor HC-SR04 adalah proses penyesuaian sensor ultrasonik ini untuk meningkatkan akurasi dalam mengukur jarak. Sensor HC-SR04 bekerja dengan mengirimkan gelombang ultrasonik dari pemancar (transmitter) dan menghitung waktu yang dibutuhkan oleh gelombang tersebut untuk memantul kembali ke penerima (receiver) setelah mengenai suatu objek. Dengan menggunakan kecepatan suara sebagai acuan, sensor ini dapat menghitung jarak objek berdasarkan waktu tempuh gelombang."
+
+2. Link Demonstrasi Kalibrasi Servo MG90s :
+   https://youtube.com/shorts/B2ZGl9izdCo?feature=share
+   "Kalibrasi servo MG90S adalah proses penyetelan servo motor ini untuk memastikan bahwa sudut putarannya akurat sesuai dengan sinyal kontrol yang diterima. Servo MG90S adalah servo motor kecil yang banyak digunakan dalam proyek robotika dan sistem kontrol, dengan kemampuan untuk berputar pada sudut tertentu berdasarkan sinyal PWM (Pulse Width Modulation) yang diterimanya."
+
+3. Link Demonstrasi Kalibrasi Mini Speaker :
+   https://youtu.be/lZPbhcjN7L0
+   "Kalibrasi mini speaker adalah proses penyesuaian output suara dari speaker kecil untuk mencapai kualitas audio yang optimal sesuai kebutuhan. Mini speaker sering digunakan dalam perangkat elektronik portabel dan sistem suara kecil. Kalibrasi pada mini speaker bertujuan untuk memastikan bahwa suara yang dihasilkan sesuai dengan frekuensi yang diinginkan, volume yang tepat, serta tanpa distorsi."
+
 &copy; 2024 FLOPRO. All rights reserved.
