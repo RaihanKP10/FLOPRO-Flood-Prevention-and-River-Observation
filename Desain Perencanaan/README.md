@@ -1,0 +1,5 @@
+# Mind Map FLOPRO
+
+![Mind Map](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Desain%20Perencanaan/MindMap.jpg)
+
+Mind map berjudul "The Idea of FLOPRO" menggambarkan proyek inovatif dalam pemantauan ketinggian air dan mitigasi banjir menggunakan teknologi IoT. Di pusatnya, ikon "WATERSAFE" menyiratkan solusi terhadap tantangan yang ada, seperti risiko banjir tanpa peringatan yang diakibatkan oleh sistem monitoring yang terbatas. FLOPRO menawarkan pengawasan berkelanjutan dengan pemantauan real-time, yang membantu pengelolaan sungai dan daerah rawan banjir. Dengan mengintegrasikan teknologi IoT, proyek ini menyediakan notifikasi otomatis dan akses data langsung, meningkatkan efisiensi pemantauan serta mengurangi risiko dan kerugian yang ditimbulkan oleh banjir. Selain itu, FLOPRO mendukung kesiapsiagaan masyarakat dengan solusi berkelanjutan yang dapat meminimalkan dampak negatif dari bencana tersebut. Secara keseluruhan, mind map ini merangkum tujuan dan manfaat FLOPRO dalam menciptakan sistem pemantauan ketinggian air yang lebih efektif dan berbasis teknologi modern.
