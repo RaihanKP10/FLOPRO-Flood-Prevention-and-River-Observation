@@ -66,12 +66,18 @@ https://github.com/user-attachments/assets/9ce2ebc6-c74e-48cd-b972-0ce2e92cbb17
 
 https://github.com/user-attachments/assets/de8e1125-ee2f-4111-9aa6-75a2dc0249be
 
+"Demonstrasi Koneksi OTA (Over-the-Air): Pada bagian pertama, kita akan melihat langkah-langkah dalam mengatur koneksi OTA. Ini memungkinkan perangkat untuk menerima pembaruan firmware secara nirkabel, memudahkan Anda mengelola pembaruan sistem tanpa perlu koneksi fisik ke perangkat." 
+
 6. Link Demonstrasi Pembuatan Firmware :
 
 https://github.com/user-attachments/assets/bfa29fa6-aab0-4fcf-a872-c59f6ed02e61
 
+"Demonstrasi Pembuatan Firmware: Berikutnya, kita akan mendalami proses pembuatan firmware yang sesuai dengan perangkat IoT Anda. Di sini, kita akan membahas cara menyusun kode, mengompilasi, hingga mengunggah firmware yang telah dibuat. "
+
 7. Link Demonstrasi Sistem Monitoring Baterai :
 
 https://github.com/user-attachments/assets/31b2b31e-45c3-4f26-8fa8-c767af66bc61
+
+"Demonstrasi Sistem Monitoring Baterai: Terakhir, kita akan mengimplementasikan sistem monitoring baterai untuk memantau status baterai perangkat. Monitoring ini sangat penting agar kita dapat memprediksi daya tahan perangkat dan memastikan bahwa perangkat selalu aktif sesuai kebutuhan. "
 
 &copy; 2024 FLOPRO. All rights reserved.
