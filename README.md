@@ -40,22 +40,38 @@ Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimka
 1. Link Demonstrasi Kalibrasi Sensor HCSR04 :
 
    
-![Kalibrasi HC-SR04_FLOPRO_Proyek IOT   Jaringan Sensor](https://github.com/user-attachments/assets/8981be6d-f395-4317-9425-955d1f3de2b1)
+https://github.com/user-attachments/assets/5eed2dfb-3297-49b0-9c64-bf10c1c43c4e
    
    https://youtube.com/shorts/4SDvYGCIjRk?feature=share
    
    "Kalibrasi sensor HC-SR04 adalah proses penyesuaian sensor ultrasonik ini untuk meningkatkan akurasi dalam mengukur jarak. Sensor HC-SR04 bekerja dengan mengirimkan gelombang ultrasonik dari pemancar (transmitter) dan menghitung waktu yang dibutuhkan oleh gelombang tersebut untuk memantul kembali ke penerima (receiver) setelah mengenai suatu objek. Dengan menggunakan kecepatan suara sebagai acuan, sensor ini dapat menghitung jarak objek berdasarkan waktu tempuh gelombang."
 
 3. Link Demonstrasi Kalibrasi Servo MG90s :
+
+https://github.com/user-attachments/assets/9af5d12e-d331-4dda-a720-6778b383e7d6
    
    https://youtube.com/shorts/B2ZGl9izdCo?feature=share
    
    "Kalibrasi servo MG90S adalah proses penyetelan servo motor ini untuk memastikan bahwa sudut putarannya akurat sesuai dengan sinyal kontrol yang diterima. Servo MG90S adalah servo motor kecil yang banyak digunakan dalam proyek robotika dan sistem kontrol, dengan kemampuan untuk berputar pada sudut tertentu berdasarkan sinyal PWM (Pulse Width Modulation) yang diterimanya."
 
 4. Link Demonstrasi Kalibrasi Mini Speaker :
+
+https://github.com/user-attachments/assets/9ce2ebc6-c74e-48cd-b972-0ce2e92cbb17
    
    https://youtu.be/lZPbhcjN7L0
    
    "Kalibrasi mini speaker adalah proses penyesuaian output suara dari speaker kecil untuk mencapai kualitas audio yang optimal sesuai kebutuhan. Mini speaker sering digunakan dalam perangkat elektronik portabel dan sistem suara kecil. Kalibrasi pada mini speaker bertujuan untuk memastikan bahwa suara yang dihasilkan sesuai dengan frekuensi yang diinginkan, volume yang tepat, serta tanpa distorsi."
+
+5. Link Demonstrasi Koneksi OTA :
+
+https://github.com/user-attachments/assets/de8e1125-ee2f-4111-9aa6-75a2dc0249be
+
+6. Link Demonstrasi Pembuatan Firmware :
+
+https://github.com/user-attachments/assets/bfa29fa6-aab0-4fcf-a872-c59f6ed02e61
+
+7. Link Demonstrasi Sistem Monitoring Baterai :
+
+https://github.com/user-attachments/assets/31b2b31e-45c3-4f26-8fa8-c767af66bc61
 
 &copy; 2024 FLOPRO. All rights reserved.
