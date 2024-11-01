@@ -38,9 +38,7 @@ Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimka
 
 ##Demonstrasi Kalibrasi Sensor
 1. Link Demonstrasi Kalibrasi Sensor HCSR04 :'
-https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/issues/18#issue-2628545450
-
-![Kalibrasi HC-SR04_FLOPRO_Proyek IOT   Jaringan Sensor](https://github.com/user-attachments/assets/8981be6d-f395-4317-9425-955d1f3de2b1
+![Kalibrasi HC-SR04_FLOPRO_Proyek IOT   Jaringan Sensor](https://github.com/user-attachments/assets/8981be6d-f395-4317-9425-955d1f3de2b1)
    
    https://youtube.com/shorts/4SDvYGCIjRk?feature=share
    
