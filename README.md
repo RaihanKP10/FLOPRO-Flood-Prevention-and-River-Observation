@@ -66,11 +66,15 @@ https://github.com/user-attachments/assets/9ce2ebc6-c74e-48cd-b972-0ce2e92cbb17
 
 https://github.com/user-attachments/assets/de8e1125-ee2f-4111-9aa6-75a2dc0249be
 
+https://youtu.be/pMJeovFwK_Y?si=bnQbwsUD5YesixBR
+
 "Demonstrasi Koneksi OTA (Over-the-Air): Pada bagian pertama, kita akan melihat langkah-langkah dalam mengatur koneksi OTA. Ini memungkinkan perangkat untuk menerima pembaruan firmware secara nirkabel, memudahkan Anda mengelola pembaruan sistem tanpa perlu koneksi fisik ke perangkat." 
 
 6. Link Demonstrasi Pembuatan Firmware :
 
 https://github.com/user-attachments/assets/bfa29fa6-aab0-4fcf-a872-c59f6ed02e61
+
+https://youtu.be/gWfn4EX8Wdg?si=ucNGiH2ZgVsit7tk
 
 "Demonstrasi Pembuatan Firmware: Berikutnya, kita akan mendalami proses pembuatan firmware yang sesuai dengan perangkat IoT Anda. Di sini, kita akan membahas cara menyusun kode, mengompilasi, hingga mengunggah firmware yang telah dibuat. "
 
@@ -78,6 +82,16 @@ https://github.com/user-attachments/assets/bfa29fa6-aab0-4fcf-a872-c59f6ed02e61
 
 https://github.com/user-attachments/assets/31b2b31e-45c3-4f26-8fa8-c767af66bc61
 
+https://youtu.be/-h_9dVcLRwE?si=lmYOK9LiICJJzn_O
+
 "Demonstrasi Sistem Monitoring Baterai: Terakhir, kita akan mengimplementasikan sistem monitoring baterai untuk memantau status baterai perangkat. Monitoring ini sangat penting agar kita dapat memprediksi daya tahan perangkat dan memastikan bahwa perangkat selalu aktif sesuai kebutuhan. "
+
+8. Link Demonstrasi Wifi Manager:
+
+https://github.com/user-attachments/assets/3f8c9bdd-fb43-4b81-9738-53641b77a450
+
+https://youtu.be/Md__u2JPdc4?si=srvmaIoYwEQb-n4l
+
+" Konfigurasi Wifi Manager FLOPRO untuk Proyek IoT dan Jaringan Sensor: Bagian pertama tutorial ini akan mengulas proses konfigurasi Wifi Manager untuk perangkat FLOPRO. Langkah ini penting agar perangkat dapat terhubung dengan jaringan WiFi yang ada secara fleksibel dan otomatis, memungkinkan koneksi yang efisien di berbagai lokasi. "
 
 &copy; 2024 FLOPRO. All rights reserved.
