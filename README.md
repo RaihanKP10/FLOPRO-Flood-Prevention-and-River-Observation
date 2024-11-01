@@ -94,7 +94,7 @@ https://youtu.be/Md__u2JPdc4?si=srvmaIoYwEQb-n4l
 
 " Konfigurasi Wifi Manager FLOPRO untuk Proyek IoT dan Jaringan Sensor: Bagian pertama tutorial ini akan mengulas proses konfigurasi Wifi Manager untuk perangkat FLOPRO. Langkah ini penting agar perangkat dapat terhubung dengan jaringan WiFi yang ada secara fleksibel dan otomatis, memungkinkan koneksi yang efisien di berbagai lokasi. "
 
-9. Link Demonstrasi Simulasi FLOPRO Pada Bak Mandi (Mengilustrasikan Sungau) :
+9. Link Demonstrasi Simulasi FLOPRO Pada Bak Mandi (Mengilustrasikan Sungai) :
 
 https://github.com/user-attachments/assets/f5d06698-10ce-430e-9a92-0ce6799bd68e
 
