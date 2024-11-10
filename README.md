@@ -1,11 +1,17 @@
-# FLOPRO : Flood Prevention and River Observation
+## Blok Diagram
+![Blok Diagram](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Blok%20Diagram%20v1.png)
 
-![Logo FLOPRO](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/logo%20watersafe.jpg)
+Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimkan data ke server untuk ditampilkan melalui aplikasi. Ketika ketinggian mendekati ambang batas, sistem memicu servo untuk membuka pintu air di bendungan. Karena alat berada di luar ruangan, data dikirim melalui modem WiFi, dan energi diperoleh dari panel surya mini yang disimpan dalam baterai.
+
+---
 
 ## Hardware Desain
+![Hardware Skematik Desain](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Skematik.png)
+![Hardware Layout Desain](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Layout.png)
 
-![Desain Hardware](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Blok%20Diagram%20v1.png)
+---
 
-Konsep kerja dari alat ini adalah mengukur ketinggian air melalui sensor ultrasonik HCSR-04, kemudian hasil pengukuran dikirim ke server untuk ditampilkan melalui aplikasi. Ketika ketinggian air mendekati permukaan, sistem memberikan informasi berupa suara dan memicu terbukanya pintu air menggunakan motor servo yang terhubung ke bendungan. 
+## Hardware Desain 3D
+![Desain 3D Hardware](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Hardware%203D%20v1.png)
 
-Pengiriman data sensor ke server membutuhkan koneksi internet, dan karena alat ini ditempatkan di luar ruangan, diperlukan modem WiFi sebagai sumber data internet eksternal. Selain itu, alat ini memanfaatkan energi matahari sebagai sumber listrik dengan menggunakan panel surya mini, yang energinya kemudian disimpan dalam baterai.
+---
