@@ -4,7 +4,7 @@ Maka dari itu dari program-program tersebut dapat dikombinasi menjadi satu.
 
 Untuk library arduino yang digunakan pada program, kita sediakan pada folder "Library Arduino".
 Jika terdapat library yang masih kurang bisa cari sendiri library yang kurang, 
-namun library yang penting sudah kita sediakan\
+namun library yang penting sudah kita sediakan
 
 ---
 
