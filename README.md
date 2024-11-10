@@ -2,6 +2,8 @@
 
 ![Logo FLOPRO](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/Baner%20FLOPRO.png)
 
+![Logo FLOPRO](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Assets/poster%20FLOPRO.PNG)
+
 Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan teknologi IoT untuk memberikan peringatan banjir secara real-time dengan mengukur ketinggian air sungai. Sistem ini dirancang untuk membantu manajemen bencana banjir dengan memberikan notifikasi kepada pemerintah daerah dan masyarakat tentang peningkatan ketinggian air, sehingga tindakan pencegahan dapat dilakukan sebelum banjir terjadi.
 
 IoT dan Jaringan Sensor - [PROGRAM STUDI TEKNIK ELEKTRONIKA](https://elektronika.pens.ac.id/) - [POLITEKNIK ELEKTRONIKA NEGERI SURABAYA](https://www.pens.ac.id/)
