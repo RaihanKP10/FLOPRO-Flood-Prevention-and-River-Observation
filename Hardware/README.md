@@ -17,7 +17,7 @@ Alat ini mengukur ketinggian air dengan sensor ultrasonik HCSR-04 dan mengirimka
 ---
 
 ## Hardware
-https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Hardware.jpeg
+![Desain Hardware](https://github.com/RaihanKP10/FLOPRO-Flood-Prevention-and-River-Observation/blob/main/Hardware/Hardware.jpeg)
 
 ---
 
