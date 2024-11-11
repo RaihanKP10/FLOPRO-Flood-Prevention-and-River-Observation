@@ -129,5 +129,12 @@ https://youtu.be/wIVfHC5TFvU
 
 Demonstrasi alat dan aplikasi FLOPRO menampilkan cara penggunaan dan fitur utama FLOPRO untuk mendukung aktivitas pengguna. Video ini menunjukkan langkah-langkah operasional alat, mulai dari instalasi hingga integrasi dengan aplikasi FLOPRO, yang memungkinkan kontrol dan pemantauan data secara real-time. Dengan demonstrasi ini, pengguna dapat memahami bagaimana FLOPRO bekerja secara praktis untuk meningkatkan efisiensi dan efektivitas alat FLOPRO
 
+#### 10. Link Demonstrasi Aplikasi FLOPRO :
+
+
+
+https://youtu.be/Y9suIjy_hSk
+
+Demonstrasi aplikasi FLOPRO memperlihatkan fitur-fitur utama dan cara menggunakan aplikasi untuk memaksimalkan fungsinya. Video ini menjelaskan langkah-langkah cara daftar akun dan login akun, serta cara menggunakan aplikasi
 
 &copy; 2024 FLOPRO. All rights reserved.
