@@ -146,4 +146,10 @@ Demonstrasi aplikasi FLOPRO memperlihatkan fitur-fitur utama dan cara menggunaka
 
 Tampilan aplikasi FLOPRO bagian Register dirancang untuk memudahkan pengguna baru dalam membuat akun dan mengakses layanan aplikasi. Di halaman ini, pengguna akan diminta untuk mengisi informasi dasar seperti nama, email, dan kata sandi. Tampilan yang sederhana dan intuitif memastikan proses registrasi berjalan cepat dan mudah. Ada juga tombol Submit untuk menyelesaikan proses pendaftaran serta petunjuk tambahan yang membantu pengguna dalam mengisi data dengan benar.
 
+### 2. Login :
+![Login](https://github.com/user-attachments/assets/ff961ed8-ed1c-4946-8693-dde5a69dba0f)
+
+Tampilan aplikasi FLOPRO bagian Login dirancang untuk memudahkan pengguna masuk ke akun mereka dengan cepat dan aman. Di halaman ini, terdapat kolom untuk memasukkan email dan kata sandi, dengan tombol Login untuk melanjutkan ke halaman utama aplikasi. Tampilan yang sederhana dan bersih membantu pengguna fokus saat mengisi informasi. Ada juga opsi Forgot Password bagi pengguna yang lupa kata sandi, serta pilihan untuk mendaftar bagi pengguna baru yang belum memiliki akun.
+
+
 &copy; 2024 FLOPRO. All rights reserved.
