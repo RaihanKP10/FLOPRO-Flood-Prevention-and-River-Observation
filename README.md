@@ -137,4 +137,11 @@ https://youtu.be/Y9suIjy_hSk
 
 Demonstrasi aplikasi FLOPRO memperlihatkan fitur-fitur utama dan cara menggunakan aplikasi untuk memaksimalkan fungsinya. Video ini menjelaskan langkah-langkah cara daftar akun dan login akun, serta cara menggunakan aplikasi
 
+---
+
+---
+## Tampilan Aplikasi FLOPRO
+#### 1. Register :
+![Register](https://github.com/user-attachments/assets/448f7f67-c1d7-41dc-b639-0f3dfb69dc6e)
+
 &copy; 2024 FLOPRO. All rights reserved.
