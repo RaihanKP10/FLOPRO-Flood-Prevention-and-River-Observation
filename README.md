@@ -151,5 +151,10 @@ Tampilan aplikasi FLOPRO bagian Register dirancang untuk memudahkan pengguna bar
 
 Tampilan aplikasi FLOPRO bagian Login dirancang untuk memudahkan pengguna masuk ke akun mereka dengan cepat dan aman. Di halaman ini, terdapat kolom untuk memasukkan email dan kata sandi, dengan tombol Login untuk melanjutkan ke halaman utama aplikasi. Tampilan yang sederhana dan bersih membantu pengguna fokus saat mengisi informasi. Ada juga opsi Forgot Password bagi pengguna yang lupa kata sandi, serta pilihan untuk mendaftar bagi pengguna baru yang belum memiliki akun.
 
+### 3. Dashboard :
+![Dashboard](https://github.com/user-attachments/assets/585b5cb5-75ab-4c24-bf48-4c5eec68f906)
+
+Tampilan aplikasi FLOPRO pada bagian Dashboard memberikan akses cepat dan ringkas ke informasi utama serta fitur-fitur penting. Di halaman ini, pengguna dapat melihat ringkasan data secara real-time, status perangkat yang terhubung, serta grafik atau statistik yang relevan dengan aktivitas mereka. Dashboard dirancang dengan antarmuka yang intuitif dan visual yang menarik, sehingga memudahkan pengguna dalam memantau, mengontrol, dan mengakses fitur aplikasi lainnya. Navigasi yang sederhana memungkinkan pengguna untuk berpindah ke menu lain dengan mudah dan efisien.
+
 
 &copy; 2024 FLOPRO. All rights reserved.
