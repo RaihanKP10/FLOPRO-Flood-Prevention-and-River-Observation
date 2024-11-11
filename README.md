@@ -144,4 +144,6 @@ Demonstrasi aplikasi FLOPRO memperlihatkan fitur-fitur utama dan cara menggunaka
 #### 1. Register :
 ![Register](https://github.com/user-attachments/assets/448f7f67-c1d7-41dc-b639-0f3dfb69dc6e)
 
+Tampilan aplikasi FLOPRO bagian Register dirancang untuk memudahkan pengguna baru dalam membuat akun dan mengakses layanan aplikasi. Di halaman ini, pengguna akan diminta untuk mengisi informasi dasar seperti nama, email, dan kata sandi. Tampilan yang sederhana dan intuitif memastikan proses registrasi berjalan cepat dan mudah. Ada juga tombol Submit untuk menyelesaikan proses pendaftaran serta petunjuk tambahan yang membantu pengguna dalam mengisi data dengan benar.
+
 &copy; 2024 FLOPRO. All rights reserved.
