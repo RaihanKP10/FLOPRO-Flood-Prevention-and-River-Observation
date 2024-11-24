@@ -160,6 +160,7 @@ Tampilan aplikasi FLOPRO pada bagian Dashboard memberikan akses cepat dan ringka
 https://github.com/user-attachments/assets/2c82f72f-5ee5-42d2-a93c-78d115699a81
 
 ### 4. Demo Aplikasi FLOPRO Register & Login Akun :
+https://github.com/user-attachments/assets/8cda75ff-3960-4abb-a7de-a9cabbc41a08
 
 
 &copy; 2024 FLOPRO. All rights reserved.
