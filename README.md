@@ -159,8 +159,34 @@ Tampilan aplikasi FLOPRO pada bagian Dashboard memberikan akses cepat dan ringka
 ### 4. Demo Aplikasi FLOPRO Pembacaan Data Sensor :
 https://github.com/user-attachments/assets/2c82f72f-5ee5-42d2-a93c-78d115699a81
 
-### 4. Demo Aplikasi FLOPRO Register & Login Akun :
+### 5. Demo Aplikasi FLOPRO Register & Login Akun :
 https://github.com/user-attachments/assets/8cda75ff-3960-4abb-a7de-a9cabbc41a08
 
+---
+
+---
+## Video Presentasi & Iklan FLOPRO
+#### 1. Presentasi :
+https://youtu.be/c4BK9ON1-bA?si=03641uwP3lWksoRz
+
+Video ini menampilkan presentasi lengkap dari proyek IoT dan Jaringan Sensor dengan nama FLOPRO yang dikerjakan oleh tim mahasiswa D4 Teknik ELektronika B. Presentasi mencakup beberapa segmen utama:
+
+Latar Belakang Proyek
+Penjelasan awal tentang motivasi dan tujuan pembuatan alat ini. Proyek ini dirancang untuk mengatasi masalah tertentu dengan memanfaatkan teknologi IoT dan jaringan sensor.
+
+Demo Hardware dan Aplikasi
+
+Langkah-langkah instalasi dan penggunaan perangkat keras.
+Tampilan langsung dari sensor yang digunakan dan bagaimana data dikumpulkan.
+Demonstrasi aplikasi yang dikembangkan untuk memonitor data dari sensor secara real-time melalui platform IoT.
+Penjelasan Isi GitHub
+
+Struktur repositori GitHub yang menyimpan seluruh kode sumber dan dokumentasi proyek.
+Penjelasan tentang file utama, cara kerja program, dan instruksi penggunaan yang tersedia di GitHub.
+
+#### 2. Iklan :
+https://youtube.com/shorts/QswNNAhAtY0?si=gQIX3H-hSb-66b26
+
+Video ini menampilkan iklan produk dari proyek IoT dan Jaringan Sensor dengan nama FLOPRO_yang dikerjakan oleh tim mahasiswa D4 Teknik Elektronika B
 
 &copy; 2024 FLOPRO. All rights reserved.
