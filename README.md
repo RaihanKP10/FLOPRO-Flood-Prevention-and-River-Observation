@@ -156,5 +156,10 @@ Tampilan aplikasi FLOPRO bagian Login dirancang untuk memudahkan pengguna masuk 
 
 Tampilan aplikasi FLOPRO pada bagian Dashboard memberikan akses cepat dan ringkas ke informasi utama serta fitur-fitur penting. Di halaman ini, pengguna dapat melihat ringkasan data secara real-time, status perangkat yang terhubung, serta grafik atau statistik yang relevan dengan aktivitas mereka. Dashboard dirancang dengan antarmuka yang intuitif dan visual yang menarik, sehingga memudahkan pengguna dalam memantau, mengontrol, dan mengakses fitur aplikasi lainnya. Navigasi yang sederhana memungkinkan pengguna untuk berpindah ke menu lain dengan mudah dan efisien.
 
+### 4. Demo Aplikasi FLOPRO Pembacaan Data Sensor :
+https://github.com/user-attachments/assets/2c82f72f-5ee5-42d2-a93c-78d115699a81
+
+### 4. Demo Aplikasi FLOPRO Register & Login Akun :
+
 
 &copy; 2024 FLOPRO. All rights reserved.
