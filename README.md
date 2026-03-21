@@ -8,7 +8,7 @@ Proyek ini adalah Sistem Pemantauan Ketinggian Air Sungai yang menggunakan tekno
 
 IoT dan Jaringan Sensor - [PROGRAM STUDI TEKNIK ELEKTRONIKA](https://elektronika.pens.ac.id/) - [POLITEKNIK ELEKTRONIKA NEGERI SURABAYA](https://www.pens.ac.id/)
 
-`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT`
+`DOSEN PENGAMPU : Akhmad Hendriawan S.T.,M.T.`
 
 `NIP. 197501272002121003`
 
